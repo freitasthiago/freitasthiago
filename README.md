@@ -1,7 +1,5 @@
-  * 👋 I am freitasthiago on github.
-  * 👀 I’m interested in cybersecurity, cloud computing and climate changes.
-  * 🌱 I’m currently learning python and artificial intelligence.
-  * 💞️ I’m looking to collaborate on with all. 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/662d57c97fc8cd7ff9525c01?variant=light&roadmaps=668dc95c7d03d0bb6d6d7b29%2C662d5d997fc8cd7ff952b380%2Cpython%2Ccyber-security" alt="roadmap.sh"/></a>
+  * 👀 I’m looking to collaborate on with all. 
   * 📫 How to reach me talk to me freitasthiago@outlook.com
 
 ### My publicly-auditable identity:
